@@ -7,7 +7,7 @@ This project is a simple integration hub for working with third-party systems. I
 1. Install Flask:
 
     ```bash
-    pip install Flask
+    pip install Flask jsonschema
     ```
 
 2. Run the Flask server:
